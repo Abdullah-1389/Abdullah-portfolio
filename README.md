@@ -1,8 +1,4 @@
-Aapke resume ko wapas `public` folder mein shift karne ke baad, ye rahi aapki updated **`README.md`** file jisme bilkul sahi folder structure aur paths mention hain.
 
-Is code ko copy karke apni `README.md` file ke andar paste kar dein:
-
-```markdown
 # 👨‍💻 Abdullah Attique — Portfolio Website
 
 A modern, highly interactive, and responsive portfolio website built with **React**, **Vite**, and **Tailwind CSS**[cite: 1, 2, 3, 4]. It showcases my technical skills, software engineering projects, and digital marketing expertise[cite: 4].
